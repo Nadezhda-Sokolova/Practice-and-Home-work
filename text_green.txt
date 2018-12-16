@@ -1,0 +1,3 @@
+green color is the color of spring !
+green grass gives special mood in spring
+this string for task2 test

@@ -1,0 +1,3 @@
+rad color is the color of spring !
+rad grass gives special mood in spring
+this string for task2 test
